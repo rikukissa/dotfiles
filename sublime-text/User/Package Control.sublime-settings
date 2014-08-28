@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Better CoffeeScript",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Jade",
+		"Jinja2",
+		"JSHint Gutter",
+		"Open Finder",
+		"Open Folder",
+		"Stylus"
+	]
+}
