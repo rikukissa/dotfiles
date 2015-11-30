@@ -1,16 +1,36 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AutoFileName",
+		"Babel",
 		"Better CoffeeScript",
+		"Elm Language Support",
 		"Gist",
 		"Git",
 		"GitGutter",
+		"HTML5",
 		"Jade",
+		"JavaScriptNext - ES6 Syntax",
 		"Jinja2",
-		"JSHint Gutter",
+		"JSON Reindent",
+		"JSX",
+		"LESS",
+		"LoremIpsum",
+		"Markdown Slideshow",
 		"Open Finder",
 		"Open Folder",
-		"Stylus"
+		"Package Control",
+		"Phpcs",
+		"Pretty JSON",
+		"ReactJS",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jsxhint"
 	]
 }
